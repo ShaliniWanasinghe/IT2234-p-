@@ -1,4 +1,4 @@
-# HTTP server
+# simple HTTP server
 <body>
 
 ## 📋 Overview
