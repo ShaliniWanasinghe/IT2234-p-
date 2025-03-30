@@ -20,6 +20,16 @@
       <ol>REST API principles</ol>
 
 </ul>
+<b>Calling the Student Details</b>
+<img src= "https://github.com/user-attachments/assets/f4f18484-9570-46d2-833c-c8f378f2aee2"><br><br>
+<b>Filtering based on gender</b>
+<img src ="https://github.com/user-attachments/assets/46895c0d-d541-4baf-93c0-62203306823a"><br>
+
+<img src ="https://github.com/user-attachments/assets/970fd583-7d7e-4acf-a65b-581a3f298957"><br>
+
+
+
+
 
  </body>
 
