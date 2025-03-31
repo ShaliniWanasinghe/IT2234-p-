@@ -14,7 +14,7 @@ This is a minimal Express.js server that:
 Prerequisites:
 <ol>
   <li>Node.js (v18 or later)</li>
-  <li>npm/yarn</li>
+  <li>npm/yarn</li><br>
   <img src="https://github.com/user-attachments/assets/5a84224d-2727-4f27-b96b-2f592ff0999a">
 
 </ol>
