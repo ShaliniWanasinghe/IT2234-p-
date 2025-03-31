@@ -20,8 +20,17 @@ Prerequisites:
 
 ## Output
 
+<ol>
+  <li>Testing Output with Postman</li><br>
+  <li><img src = "https://github.com/user-attachments/assets/db9c9fef-04fd-4310-b078-b8efd98f6497"></li>
+  <br><br>
+  <li>Manual Server Testing</li>
+  <li><img src ="(https://github.com/user-attachments/assets/ba1d5799-d609-46fc-bd73-369f065da216"></li>
 
-<img src = "https://github.com/user-attachments/assets/db9c9fef-04fd-4310-b078-b8efd98f6497">
+
+
+</ol>
+
 
 
   
