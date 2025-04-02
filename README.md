@@ -1,10 +1,11 @@
-
+#ICA 1 Answers
 <html>
 
   <body>
-  <h2><b>  Web Services and Server Technologies</b></h2>
+ <h3>ICA 01 Answers</h3>
+   <img src = "https://github.com/user-attachments/assets/1dfbaa87-3b8b-46d7-8073-37c9c84239a2">
     <br>
-<img src= "https://github.com/user-attachments/assets/ece0f9d1-2fd1-4dcd-bb99-4cf457046a64">
+<img src= "https://github.com/user-attachments/assets/d1de0417-1b38-441e-ae82-43d9fba540c4"
 
 
 
