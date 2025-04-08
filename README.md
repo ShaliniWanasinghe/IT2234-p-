@@ -2,7 +2,9 @@
 <html>
 
   <body>
- <h3>ICA 01 Answers</h3>
+<head>
+ <h2>ICA 01 Answers</h2> 
+</head>
     <ol>
       <li> <b>Q1</b></li>
       <br>
@@ -15,6 +17,10 @@
       <li><b>Q3</b></li>
       <br>
       <img src = "https://github.com/user-attachments/assets/87bfb67e-2435-4fdb-aba6-9db68b2756db">
+      <br>
+      <li><b>Q4</b></li>
+      <br>
+      <img src = "https://github.com/user-attachments/assets/6120c056-98a7-42c9-ba21-0da69e056c24 ">
       <br>
     </ol>
    
