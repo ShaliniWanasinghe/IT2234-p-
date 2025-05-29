@@ -1,4 +1,23 @@
 # Student App
+#MongoDB
+1.Setting Up MongoDB with VS Code
+<ul>
+  <li>Install Node.js (includes npm)</li>
+  <li>Install MongoDB Community Server</li>
+  <li>Install MongoDB Compass (GUI for MongoDB)</li>
+</ul>
+2. Install Dependencies
+<ul>
+  <li>npm install express mongoose </li>
+<li>npm install express</li>
+<li>npm install nodeon</li>
+</ul>
+
+3.Open the Folder in VS code
+<ul>
+  <li>Open the folder and create the relavent code folders</li>
+</ul>
+
 
 # Step 01 : 
 
