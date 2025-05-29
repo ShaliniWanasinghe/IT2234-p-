@@ -1,3 +1,12 @@
+MongoDB is a NoSQL database that stores data in flexible, JSON-like documents. Unlike traditional SQL databases, it doesn’t require tables and schemas, making it great for scalable and dynamic applications.
+
+1. Install MongoDB
+<ul>
+  <li>Download MongoDB Community Server from mongodb.com.</li>
+  <li>Download MongoDB Compass (GUI)</li>
+  <li>From Compass Connect to mongodb://localhost:27017 and manage databases visually.</li>
+</ul>
+
 
 # Database Name : UniDB
 # Collection Name : students
