@@ -1,14 +1,12 @@
-
-<html>
-
-  <body>
-  <h2><b>  Web Services and Server Technologies</b></h2>
-    <br>
-<img src= "https://github.com/user-attachments/assets/ece0f9d1-2fd1-4dcd-bb99-4cf457046a64">
-
-
-
-
-
-  </body>
-</html>
+![1 0](https://github.com/user-attachments/assets/5e3632f6-19e0-478b-8689-53d4af8bc7be)
+![1 2 postman](https://github.com/user-attachments/assets/dc598992-3c2f-4417-946e-5471b3747ca0)
+![1 2](https://github.com/user-attachments/assets/f9c8db90-d038-40f6-950e-a81f83003658)
+![1 3](https://github.com/user-attachments/assets/96d6f228-d9ba-4ac7-a887-a52e27ed52dd)
+![1 4](https://github.com/user-attachments/assets/bc7daf56-c857-4754-b0f2-844eb13fd563)
+![all students postman](https://github.com/user-attachments/assets/c0930c87-bb23-4eb3-879b-d15d1641c2bc)
+![filter year](https://github.com/user-attachments/assets/9499d916-c1ff-4638-858f-33765594b7ea)
+![filtering book genre postman](https://github.com/user-attachments/assets/85ab65a4-4ab5-4b81-9580-e987c1f4e23b)
+![filtering book postman](https://github.com/user-attachments/assets/90217a13-58af-4a8d-8f67-9d576a05b957)
+![filtering by year in postman](https://github.com/user-attachments/assets/736d437d-5a30-4e7d-9da1-6a8617d7794c)
+![filtering student by ID postman](https://github.com/user-attachments/assets/18300c9f-6779-411b-89e9-201c4198d4c8)
+![filtering](https://github.com/user-attachments/assets/d80445cf-6ad6-4983-a9b1-57b868971929)
