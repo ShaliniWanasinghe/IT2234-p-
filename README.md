@@ -1,14 +1,47 @@
+# 📚 Library Management REST API with JWT Authentification
 
-<html>
+The Restful API i developed for LbraryManagement is further developed with JWT 
+---
 
-  <body>
-  <h2><b>  Web Services and Server Technologies</b></h2>
-    <br>
-<img src= "https://github.com/user-attachments/assets/ece0f9d1-2fd1-4dcd-bb99-4cf457046a64">
+## 🚀 Features
+
+- ✅ User Registration & Login with hashed passwords
+- 🔐 JWT Authentication for protected routes
+- 📖 Book management (CRUD)
+- 👤 Student management
+- 🔄 Borrow & Return system
+- ⚙️ Modular codebase (Routes, Services, Models)
 
 
+---
+
+## 🔑 Authentication
+
+### Register
+**POST** `/api/users/register`
+
+**Body:**
+```json
+{
+  "username": "Shalini",
+  "email": "2021ict758@stu.vau.ac.lk",
+  "password": "abcd123"
+}
+```
+
+![Screenshot 2025-06-12 163021](https://github.com/user-attachments/assets/aef29bd0-0105-4184-af1e-479da1dc2d1b)
 
 
+### Login
+**POST** `/api/users/login`
 
-  </body>
-</html>
+**Body:**
+```json
+
+{
+  "email": "2021ict758@stu.vau.ac.lk",
+  "password": "abcd123"
+}
+```
+
+![Screenshot 2025-06-12 163037](https://github.com/user-attachments/assets/34916a9a-9b38-4561-a440-42611ccbb34e)
